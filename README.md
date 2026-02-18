@@ -1,5 +1,3 @@
-<img width="901" height="378" alt="image" src="https://github.com/user-attachments/assets/a2263ef7-2035-4252-a4aa-e3e5b4b2bf5b" /># Linux-IPC-Shared-memory
-Ex06-Linux IPC-Shared-memory
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
